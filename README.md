@@ -1,6 +1,6 @@
 # Proyek Analisis Data Publik E-Commerce dengan Python
 
-[Link dashboard](https://submissiondicodingdata.streamlit.app/)
+[Link dashboard](https://submission-main-jfo53qfnc7ohekbi2yrvuq.streamlit.app/)
 
 ## Daftar Isi
 - [Gambaran](#gambaran)
@@ -32,5 +32,5 @@ cd submission/dashboard
 streamlit run dashboard.py
 ```
 ## Link github
-[Link](https://github.com/TheRaccoon-Black/submission)
+[Link](https://github.com/IrfanLuthfii/submission-main)
 
