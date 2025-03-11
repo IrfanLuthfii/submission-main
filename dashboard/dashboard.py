@@ -207,4 +207,4 @@ with tab2:
     with st.expander("Penjelasan"):
         st.write('Berdasarkan grafik yang telah dibuat, terlihat bahwa ada lebih banyak pelanggan di wilayah tenggara dan selatan. Selain itu, ada juga lebih banyak pelanggan di kota-kota yang merupakan ibu kota, seperti São Paulo, Rio de Janeiro, Porto Alegre, dan beberapa kota lainnya.')
 
-st.caption('Copyright (C)2024 Muhammad Fachrurrozi')
+st.caption('Copyright (C)2025 Irfan Luthfi')
